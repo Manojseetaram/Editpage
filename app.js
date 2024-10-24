@@ -115,3 +115,6 @@ form.addEventListener('submit', (e)=> {
     imgInput.src = "./image/Profile Icon.webp"  
    
 })
+
+// const f=10;
+// console.log(`Hello `,f);
